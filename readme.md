@@ -1,0 +1,1 @@
+Arduino UNO code that listens for MIDI signals on the serial port (RX). A snare and bass drum are struck by 12V solenoid motors connected to ports 8, 9 and 10. If the MIDI signal calls for a repeat snare strike quicker than 100ms, the second snare motor is used to give the first motor time to recover. If the pedal on port 4 is pressed, the MIDI activity is ignored.
