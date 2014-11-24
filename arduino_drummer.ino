@@ -15,7 +15,6 @@ unsigned long snareDrum1Start = 0;
 unsigned long snareDrum2Start = 0; 
 
 // hold down the motors for this long so that there's enough current going through the motor to cause it to smack down on the drum
-// this method ignores the note=OFF/velocity=0 messages from the MIDI controller
 byte holdDuration = 40; 
 byte pedalState = 0; 
 
