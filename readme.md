@@ -2,4 +2,4 @@ Arduino project for MIDI controlled drummer. MIDI signals come in on the serial 
 
 MIDI input circuit from [this Instructable](http://www.instructables.com/id/Send-and-Receive-MIDI-with-Arduino/step10/Receive-MIDI-Messages-with-Arduino/)
 
-![Schematic](drummer_schematic.png =500x)
+![Schematic](drummer_schematic.png)
